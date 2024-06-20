@@ -1,1 +1,2 @@
 Practicing Git
+I'm modifying the file using the nano command
